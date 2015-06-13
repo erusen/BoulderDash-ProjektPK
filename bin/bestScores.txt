@@ -1,0 +1,5 @@
+Adam 900
+Karolina 600
+Mateusz 400
+Jacek 300
+Ola 100
