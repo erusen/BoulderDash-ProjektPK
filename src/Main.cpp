@@ -2,6 +2,7 @@
 #include "Game.h"
 
 // comment
+// comment 2
 
 int WinMain()
 {
